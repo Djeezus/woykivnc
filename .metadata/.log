@@ -1,0 +1,9 @@
+!SESSION 2013-02-01 20:43:03.212 -----------------------------------------------
+eclipse.buildId=M20110210-1200
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2013-02-01 20:44:10.365
+!MESSAGE An Android SDK is already being loaded. Please try again later.
