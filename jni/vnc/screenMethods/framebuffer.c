@@ -1,6 +1,7 @@
 /*
-droid VNC server  - a vnc server for android
+WyokiVNC
 Copyright (C) 2011 Jose Pereira <onaips@gmail.com>
+Added Wyoki functionality 2013 Gert Vandelaer <djeezus@godsells.org>
 
 Other contributors:
   Oleksandr Andrushchenko <andr2000@gmail.com>

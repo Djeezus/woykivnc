@@ -1,5 +1,5 @@
 /*
-droid vnc server - Android VNC server
+WyokiVNC
 Copyright (C) 2009 Jose Pereira <onaips@gmail.com>
 
 This library is free software; you can redistribute it and/or

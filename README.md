@@ -1,7 +1,7 @@
-WyokiVNC project ... forked from Onaips droid-vnc
+WyokiVNC project ... 
 
 - Daemon -
-Provides the vnc server functionality, injects input/touch events, clipboard management, etc
+Provides vncserver functionality, currently only tested it via adb shell, gui compiles fine, but start/stop activities not yet 100% ok :)
 Available in jni/ folder
 
 - Wrapper libs -
@@ -23,12 +23,12 @@ On project folder:
   $ cd <aosp_folder>
   $ . build/envsetup.sh
   $ lunch
-  $ ln -s <droid-vnc-folder>/nativeMethods/ external/
+  $ ln -s <wyoki-folder>/nativeMethods/ external/
 
 To build:
   $ cd external/nativeMethods
   $ mm .
-  $ cd <droid-vnc-folder>
+  $ cd <wyoki-folder>
   $ ./updateExecsAndLibs.sh
 
 -------------- Compile GUI------- -------------------
